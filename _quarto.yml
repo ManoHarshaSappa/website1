@@ -7,8 +7,14 @@ website:
   navbar:
     left:
     - About Me.qmd
+    - Projects.qmd
+    - Work Experience.qmd
+    - Skills.qmd
+    - Education.qmd
+    - Certificates and Achievements.qmd
+    - Social Media.qmd
+    - Contact.qmd
 
-    
 format:
   html:
     theme: cosmo
