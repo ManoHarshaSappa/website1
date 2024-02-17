@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Myweb"
+  navbar:
+    left:
+    - About Me.qmd
+
+    
+format:
+  html:
+    theme: cosmo
