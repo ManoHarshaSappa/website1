@@ -2,3 +2,7 @@
 title: "Skills"
 editor: visual
 ---
+
+-   **Languages and Frameworks:** Python, SQL, HTML, CSS, Git/GitHub
+
+-   **Libraries:** Numpy, Pandas, Matplotlib

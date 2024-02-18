@@ -1,23 +1,58 @@
 [
   {
-    "objectID": "About Me.html",
-    "href": "About Me.html",
-    "title": "About Me",
+    "objectID": "Social Media.html",
+    "href": "Social Media.html",
+    "title": "Social Media",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "LinkedIn : https://www.linkedin.com/in/contactmanoharshasappa/\nYoutube : https://www.youtube.com/@UsAlludu\nFacebook : https://www.facebook.com/sappa.manu\nInstagram : https://www.instagram.com/sappa_manu/"
   },
   {
-    "objectID": "About Me.html#uarto",
-    "href": "About Me.html#uarto",
-    "title": "About Me",
+    "objectID": "Education.html",
+    "href": "Education.html",
+    "title": "Education",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Education\n\nGeorge Mason University, Fairfax, VA, USA\n\nMaster of Science, Data Analytics Engineering (Jan 2024 - May 2026)\n\nRelevant Courses: Applied Information Technology, Principles of Data Management/Mining, Analytics and Modeling, Applied Statistics, Machine Learning, Visualization for Analytics.\n\n\nSR Gudlavalleru Engineering College, INDIA\n\nBachelor of Technology, Electronic and Communication Engineering (Jun 2018 - Apr 2022)\n\nNoteworthy Courses: Linear Algebra and Differential Equations, Problem Solving through Computer Programming, Probability Theory and Stochastic Process, Fundamentals of Data Structures."
   },
   {
-    "objectID": "About Me.html#running-code",
-    "href": "About Me.html#running-code",
-    "title": "About Me",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "LinkedIn : https://www.linkedin.com/in/contactmanoharshasappa/\nYoutube : https://www.youtube.com/@UsAlludu\nFacebook : https://www.facebook.com/sappa.manu\nInstagram : https://www.instagram.com/sappa_manu/"
+  },
+  {
+    "objectID": "Work Experience.html",
+    "href": "Work Experience.html",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Data Science Internship | Corizo EduTech Private Limited\nDuring my internship, I worked on advanced data visualization for automotive datasets. I utilized Jupyter Notebook, applying Python skills with pandas, numpy, and seaborn for effective data manipulation and visualization tasks."
+  },
+  {
+    "objectID": "Work Experience.html#interests-and-domain",
+    "href": "Work Experience.html#interests-and-domain",
+    "title": "Work Experience",
+    "section": "Interests and Domain",
+    "text": "Interests and Domain\nMy interests span across Data Analysis, Machine Learning, Natural Language Processing (NLP), Knowledge Graph, and Time Series Analysis."
+  },
+  {
+    "objectID": "Certificates and Achievements.html",
+    "href": "Certificates and Achievements.html",
+    "title": "Certificates and Achievements",
+    "section": "",
+    "text": "Combined Annual Training Camp - II\n\nAttended the camp held at Agricultural Market Yard, Nuzyvid, contributing to the 19 Andhra BN NCC.\n\nPublic Health Contributor | Unit of Good Samaritan Blood Centre\n\nDevoted volunteer and regular blood donor, actively promoting community health and well-being.\n\nRegional and State Level Sports\n\nRepresented my school in Volleyball at both regional and state-level sports meets, fostering team spirit.\n\nMember of International Programs and Services\n\nActive member, contributing to collaboration and support for individuals worldwide.\n\nUnderstanding Weather & Climate | Intra-Regional Level\n\nParticipated in the event held at Kendriya Vidyalaya No.2, Uppal, Hyderabad & Air Force Station, Begumpet - Hyderabad.\n\n\nExtra Curricular Files"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Detecting Building Defects | Python, IBM Cloud\n\nAwarded the BEST PAPER AWARD at the Second International Conference on Computational and Intelligent Techniques for Automation of Engineering Systems (CITAES’22).\nDeveloped a building defect detection system using Vgg16 architecture in Python, integrated with IBM Cloud for efficient analysis and processing of images.\n\nProject Files\nImplementation and Analysis Parallel Prefix Adders | Xilinx ISE\n\nConducted an analysis to identify the most efficient and fastest address in real-time applications.\n\nProject Files\nAutomatic Engineer Locking System | GSM Module\n\nImplemented a safety feature that halts the engine automatically if the driver consumes alcohol, enhancing road safety measures.\n\nProject Files"
+  },
+  {
+    "objectID": "Skills.html",
+    "href": "Skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Languages and Frameworks: Python, SQL, HTML, CSS, Git/GitHub\nLibraries: Numpy, Pandas, Matplotlib"
   }
 ]

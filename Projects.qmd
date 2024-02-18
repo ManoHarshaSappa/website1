@@ -2,3 +2,23 @@
 title: "Projects"
 editor: visual
 ---
+
+1.  **Detecting Building Defects \| Python, IBM Cloud**
+
+    -   Awarded the BEST PAPER AWARD at the Second International Conference on Computational and Intelligent Techniques for Automation of Engineering Systems (CITAES’22).
+
+    -   Developed a building defect detection system using Vgg16 architecture in Python, integrated with IBM Cloud for efficient analysis and processing of images.
+
+    [Project Files](https://chat.openai.com/c/github.com/smartinternz02/SI-GuidedProject-3420-1624086986)
+
+2.  **Implementation and Analysis Parallel Prefix Adders \| Xilinx ISE**
+
+    -   Conducted an analysis to identify the most efficient and fastest address in real-time applications.
+
+    [Project Files](https://chat.openai.com/c/drive.google.com/drive/folders/1tpf5AHSkuBTux9kJ6KIepTOPv0qp2toZ?usp=sharing)
+
+3.  **Automatic Engineer Locking System \| GSM Module**
+
+    -   Implemented a safety feature that halts the engine automatically if the driver consumes alcohol, enhancing road safety measures.
+
+    [Project Files](https://chat.openai.com/c/drive.google.com/drive/folders/1rcheD77LW2EuiOoYhY_vvF8svNYkPgz7?usp=sharing)
