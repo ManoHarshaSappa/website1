@@ -13,7 +13,6 @@ website:
     - Education.qmd
     - Certificates and Achievements.qmd
     - Contact.qmd
-
 format:
   html:
     theme: cosmo

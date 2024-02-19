@@ -3,7 +3,7 @@ title: "Projects"
 editor: visual
 ---
 
-1.  **Detecting Building Defects \| Python, IBM Cloud**
+1.  **Detecting Building Defects \| Python, IBM Cloud :**
 
     -   Awarded the BEST PAPER AWARD at the Second International Conference on Computational and Intelligent Techniques for Automation of Engineering Systems (CITAES’22).
 

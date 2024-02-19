@@ -5,13 +5,13 @@ editor: visual
 
 **Education**
 
--   **George Mason University, Fairfax, VA, USA**
+-   **George Mason University, Fairfax, VA, USA :**
 
     -   Master of Science, Data Analytics Engineering (Jan 2024 - May 2026)
 
         -   Relevant Courses: Applied Information Technology, Principles of Data Management/Mining, Analytics and Modeling, Applied Statistics, Machine Learning, Visualization for Analytics.
 
--   **SR Gudlavalleru Engineering College, INDIA**
+-   **SR Gudlavalleru Engineering College, INDIA :**
 
     -   Bachelor of Technology, Electronic and Communication Engineering (Jun 2018 - Apr 2022)
 
