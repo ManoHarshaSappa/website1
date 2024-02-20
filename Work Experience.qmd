@@ -3,10 +3,10 @@ title: "Work Experience"
 editor: visual
 ---
 
-**Data Science Internship \| Corizo EduTech Private Limited**
+### **Data Science Internship \| Corizo EduTech Private Limited:**
 
 During my internship, I worked on advanced data visualization for automotive datasets. I utilized Jupyter Notebook, applying Python skills with pandas, numpy, and seaborn for effective data manipulation and visualization tasks.
 
-## **Interests and Domain**
+### **Interests and Domain:** 
 
 My interests span across Data Analysis, Machine Learning, Natural Language Processing (NLP), Knowledge Graph, and Time Series Analysis.

@@ -4,4 +4,6 @@ format: html
 editor: visual
 ---
 
-## Hello there! I'm Manoharsha Sappa, a passionate and dedicated individual with a keen interest in data analytics and engineering. Currently pursuing my Master of Science in Data Analytics Engineering at George Mason University in Fairfax, VA, USA, I am set to graduate in May 2026..
+![](images/418434978_18288756169158497_3135009362735311866_n-01.jpg){fig-align="center" width="192"}
+
+Hello there! I am **Manoharsha Sappa**, born on **September 26, 2000**. Initiating my educational journey at **Kendriya Vidyalaya** for schooling, I proceeded to intermediate studies at **Sri Chaitanya Junior College**. Having obtained a **B.Tech** degree from **Gudlavalleru Engineering College**, I am currently immersed in the **Master of Science** in **Data Analytics Engineering** program at **George Mason University** in Fairfax, VA, USA, with an anticipated graduation date in May 2026. My academic journey shows that I'm dedicated and determined in the fields of data analytics and engineering.

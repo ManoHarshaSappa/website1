@@ -12,6 +12,7 @@ website:
     - Skills.qmd
     - Education.qmd
     - Certificates and Achievements.qmd
+    - Extracurricular.qmd
     - Contact.qmd
 format:
   html:
